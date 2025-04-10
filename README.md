@@ -6,8 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL-00758F?logoColor=fff
-  " />
+  <img src="https://img.shields.io/badge/SQL-00758F?logoColor=fff" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
