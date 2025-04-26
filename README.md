@@ -20,6 +20,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?logoColor=fff" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logoColor=fff" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
 </p>
